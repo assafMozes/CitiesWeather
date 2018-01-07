@@ -1,0 +1,19 @@
+.noDisplay{
+    display: none
+}
+
+.display{
+    display: inline-block
+    
+}
+
+.city{
+    color: blue;
+    border: 1px solid black;
+    width: 50vw;
+    background: rgb(53, 236, 227);
+    margin: 5px;
+    padding: 3px;
+    
+
+}
